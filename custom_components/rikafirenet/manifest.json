@@ -1,7 +1,7 @@
 {
-    "domain": "rikafirenet",
-    "name": "Rika Firenetd",
-    "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_sensor/",
+    "domain": "rika_cloud",
+    "name": "Rika Cloud",
+    "documentation": "https://github.com/jnschouten/custom_components/",
     "dependencies": [],
     "codeowners": [],
     "requirements": []

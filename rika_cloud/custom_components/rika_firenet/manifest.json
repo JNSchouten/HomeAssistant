@@ -1,0 +1,12 @@
+{
+  "domain": "rika_cloud",
+  "name": "Rika Firenet Cloud",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "config_flow": true,
+  "requirements": [
+    "bs4",
+    "requests"
+  ]
+}
